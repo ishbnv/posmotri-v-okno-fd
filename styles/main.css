@@ -1,0 +1,15 @@
+/* Сброс стандартных стилей браузера */
+
+@import url(utils/global.css);
+
+/* Сброс для окна ошибки */
+
+@import url(utils/error.css);
+
+/* Стили для прелоадера */
+
+@import url(utils/preloader.css);
+
+/* Стили для шрифтов */
+
+@import url(../fonts/fonts.css);
